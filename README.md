@@ -9,6 +9,6 @@ Open this link with the F-Droid client oder copy & paste it:
 use at your own rist
 
 ## this repo currently contains:
-- [FOSS Warn](https://github.com/nucleus-ffm/foss_warn) (0.2.5)
+- [FOSS Warn](https://github.com/nucleus-ffm/foss_warn) (0.2.6)
 
-*last update: 27.1.22*
+*last update: 29.1.22*
