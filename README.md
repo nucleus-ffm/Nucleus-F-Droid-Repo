@@ -6,6 +6,10 @@ Open this link with the F-Droid client oder copy & paste it:
 * **URL:** https://raw.githubusercontent.com/nucleus-ffm/Nucleus-F-Droid-Repo/master/fdroid/repo
 * **Fingerprint:** A32DE9127A6961C5BEBF412C2128312CDFE70F2D7AD444091538432694B776FF
 
+or scan this QR code:
+
+![](https://raw.githubusercontent.com/nucleus-ffm/Nucleus-F-Droid-Repo/master/fdroid/repo/assets/qrcode.png)
+
 use at your own rist
 
 ## this repo currently contains:
