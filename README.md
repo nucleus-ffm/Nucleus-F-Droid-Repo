@@ -13,6 +13,6 @@ or scan this QR code:
 use at your own rist
 
 ## this repo currently contains:
-- [FOSS Warn](https://github.com/nucleus-ffm/foss_warn) (0.2.6)
+- [FOSS Warn](https://github.com/nucleus-ffm/foss_warn) (0.2.10)
 
-*last update: 29.1.22*
+*last update: 3.4.22*
